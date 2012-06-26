@@ -3,6 +3,8 @@ Lab_Python_06
 Part 1
 """
 
+import datetime
+
 """
 Whatever the datastructure you choose,
 it should represent the following data:
@@ -20,9 +22,7 @@ torres		| 6/21/2012	| 1
 ## create the player_stats data structure
 
 
-
 ## implement highest_score
-
 
 
 ## implement highest_score_for_player
